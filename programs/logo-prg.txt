@@ -1,0 +1,11 @@
+fcc 0 
+DONNE "x 5
+DONNE "y 0
+fpos[550 360 ]
+TANTQUE :x<730
+[
+av :x
+tg 90
+DONNE "x :x +5
+
+]
